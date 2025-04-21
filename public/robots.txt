@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Sitemap: https://github.com/sachinkumar911/sitemap.xml
+Sitemap: https://sachinkumarmehta.vercel.app/sitemap.xml

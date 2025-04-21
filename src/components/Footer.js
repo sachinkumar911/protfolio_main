@@ -11,7 +11,7 @@ const Footer = () => {
             <hr />
             <div className="container mb-3">
                 <p className="text-center">
-                    &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕ By <a style={{ textDecoration: 'none' }} href="https://www.linkedin.com/in/sachin-kumar-mehta/" target='_blank' rel="noreferrer">Sachin Kumar Mehta</a> 😊
+                    &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕ By <a style={{ textDecoration: 'none' }} href="https://sachinkumarmehta.vercel.app/" target='_blank' rel="noreferrer">Sachin Kumar Mehta</a> 😊
                 </p>
                 <div class="footer-social">
                     <ul class="social-icons">
