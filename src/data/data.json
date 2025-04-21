@@ -1,0 +1,237 @@
+{
+  "data": {
+    "fullName": "Sachin Kumar Mehta",
+    "logo": "logo.png",
+    "email": "sachinkumarmehta91@gmail.com",
+    "titleArray": [
+      "Full-Stack Web Developer",
+      "Software Developer",
+      "DevOps Enthusiast",
+      "Computer Addict!"
+    ],
+    "subTitle": "MERN stack magician, DevOps EnthusiastS, and part-time debugger. If you see me staring at my screen, I’m either coding… or questioning my life choices!",
+    "resumeLink": "https://drive.google.com/file/d/1ORNTB2cEbhli9cyXL6oD4o8_e1ObWPtL/view?usp=sharing",
+    "aboutDescription": [
+      "Hello! I'm Sachin, a budding full-stack web developer.",
+      "I've been captivated by the world of technology. Armed with a Bachelor in Computer Applications, I've honed my skills in the MERN stack, Python, and C++.",
+      "Currently, I'm expanding my expertise with a focus on Web Developement and DevOps at NIT JAMSHEDPUR (MCA).Beyond coding, I find joy in the playing Cricket.",
+      "In recent years, I've dived into programming, crafting a robust front-end stack,backend and creating projects that address real-world challenges.",
+      "Juggling design, development, and education, I am trying to dive deep into coding and make a real difference.",
+      "If you're intrigued by what I'm working on, explore my portfolio below, and let's connect for potential collaborations!"
+    ],
+    "aboutImage": "2022.jpg",
+    "skills": [
+      {
+        "title": "Frontend",
+        "skillname": [
+          {
+            "name": "React",
+            "image": "react"
+          },
+          {
+            "name": "HTML",
+            "image": "html"
+          },
+          {
+            "name": "CSS",
+            "image": "css"
+          },
+          {
+            "name": "JavaScript",
+            "image": "javascript"
+          },
+          {
+            "name": "BootStrap",
+            "image": "bs"
+          },
+          {
+            "name": "Tailwind",
+            "image": "tailwind"
+          },
+          {
+            "name": "Next Js",
+            "image": "next"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skillname": [
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "NPM",
+            "image": "npm"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          },
+          {
+            "name": "MySQL",
+            "image": "mysql"
+          }
+        ]
+      },
+      {
+        "title": "Others",
+        "skillname": [
+          {
+            "name": "Python",
+            "image": "py"
+          },
+          {
+            "name": "C++",
+            "image": "cpp"
+          },
+          {
+            "name": "Git",
+            "image": "git"
+          },
+          {
+            "name": "GitHub",
+            "image": "github"
+          },
+          {
+            "name": "Vercel",
+            "image": "vercel"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "projectName": "Dispensary Managment System",
+        "projectType": "Web Application",
+        "projectImage": [
+          "Project5/ds.png"
+        ],
+        "techStack": [
+          {
+            "name": "HTML",
+            "image": "html"
+          },
+          {
+            "name": "CSS",
+            "image": "css"
+          },
+          {
+            "name": "React",
+            "image": "react"
+          },
+          {
+            "name": "BootStrap",
+            "image": "bs"
+          },
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          },
+          {
+            "name": "Vercel",
+            "image": "vercel"
+          }
+        ],
+        "description": "The Dispensary Management System is a full-stack web application designed to streamline dispensary operations, including appointment scheduling, inventory management, and medicine distribution. It features role-based access control, secure JWT authentication, and a React dashboard, deployed with optimized performance and security",
+        "githubLink": "https://github.com/sachinkumar911/DISPENSARY_NIT_JAMSHEDPUR",
+        "liveLink": "https://dispensary-management-sys.vercel.app/"
+      },
+      {
+        "projectName": "MockMasters",
+        "projectType": "Web Application",
+        "projectImage": [
+          "Project6/ms2.png"
+        ],
+        "techStack": [
+          {
+            "name": "HTML",
+            "image": "html"
+          },
+          {
+            "name": "CSS",
+            "image": "css"
+          },
+          {
+            "name": "React",
+            "image": "react"
+          },
+          {
+            "name": "BootStrap",
+            "image": "bs"
+          },
+          {
+            "name": "Node Js",
+            "image": "node"
+          },
+          {
+            "name": "Express Js",
+            "image": "express"
+          },
+          {
+            "name": "MongoDB",
+            "image": "mdb"
+          },
+          {
+            "name": "Vercel",
+            "image": "vercel"
+          }
+        ],
+        "description": "MockMaster is an intelligent mock interview platform designed to help users prepare for technical interviews by simulating real-world scenarios. It offers customized interview questions across various domains, providing detailed feedback and explanations to enhance learning and boost confidence",
+        "githubLink": "https://github.com/sachinkumar911/MockMasters-Frontend",
+        "liveLink": "https://mockmasters.vercel.app/"
+      },
+      {
+        "projectName": "ASCII ART",
+        "projectType": "C++ Header File",
+        "projectImage": [
+          "Project7/as.png"
+        ],
+        "techStack": [
+          {
+            "name": "C++",
+            "image": "cpp"
+          }
+        ],
+        "description": "The ASCII Art Header File is a C++ library that mimics popular Python libraries for generating ASCII art. It allows users to display text in various styles by converting each letter of a word into unique, visually appealing ASCII representations, providing an easy and customizable way to create text-based art in C++ programs",
+        "githubLink": "https://github.com/sachinkumar911/ascii-art",
+        "liveLink": ""
+      },
+      {
+        "projectName": "SMS Spam Detection",
+        "projectType": "Machine Learning",
+        "projectImage": [
+          "Project1/sms.png"
+        ],
+        "techStack": [
+          {
+            "name": "Python",
+            "image": "py"
+          }
+        ],
+        "description": "The SMS Detection system, made using machine learning, classifies and filters incoming text messages for spam, phishing, and other malicious content. It ensures real-time classification with customizable sensitivity, improving security and user experience",
+        "githubLink": "https://github.com/sachinkumar911/sms_spam",
+        "liveLink": ""
+      }
+    ],
+    "contactParagraph": "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.",
+    "socialLinks": {
+      "github": "https://github.com/sachinkumar911",
+      "linkedin": "https://www.linkedin.com/in/sachin-kumar-mehta/",
+      "instagram": "https://github.com/sachinkumar911"
+    }
+  }
+}
